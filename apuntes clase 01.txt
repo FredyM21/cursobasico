@@ -1,0 +1,27 @@
+Stylos trabaja con selectores
+	Selector más general que todos
+	*
+	{
+
+	}	
+
+	Selector por etiqueta o supergenerales
+	ejemplo 
+		P
+		{
+			color:black; ==>> 'Propiedad:Valor de la propedad'
+		}
+
+	Selector por clase o categoria
+	ejemplo 
+		.container
+		{
+
+		}
+
+	Selector por IDE super especifico
+	ejemplo 
+		#inicio
+		{
+
+		}
